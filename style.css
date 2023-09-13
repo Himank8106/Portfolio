@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
 
 *{
     margin: 0;
@@ -27,11 +29,32 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 2.5rem;
+    padding-top: 2rem;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    font-family: "DM Serif Display", serif; 
 }
 
 .logo{
-    width: 200px;
+    width: 80px;
+}
+
+#span1{
+    font-size: 37px;
+    font-weight:400;
+    transform: translate(-13px, +10px);
+    font-family: "DM Serif Display", serif; 
+    
+}
+
+#span2{
+    font-size: 50px;
+    font-weight:400;
+    transform: translate(-14px, +6px);
+    font-family: "DM Serif Display", serif;
 }
 
 .nav-items{
@@ -69,7 +92,7 @@ a{
     align-items: center;
 
     gap: 5rem;
-    margin: 4rem auto;
+    margin: 3.5rem auto;
     padding: 0 1rem;
     padding-bottom: 9.2rem;
 }
