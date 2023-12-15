@@ -341,7 +341,7 @@ a{
 .project-card{
     width: 90%;
     height: 550px;
-    background-image: url(./Images/projects/TextUtils.png);
+    background-image: url(./Images/projects/RazorpayClone.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -473,16 +473,16 @@ a{
 
 #project1{
     margin-left: 120px;
-    background-image: url(Images/projects/TextUtils.png);
+    background-image: url(Images/projects/RandomGIFGeneraot.png);
 }
 
 #project2{
-    background-image: url(Images/projects/Coalescence.png);
+    background-image: url(Images/projects/GithubProfileVista.png);
 }
 
 #project3{
     margin-left: 120px;
-    background-image: url(Images/projects/Mozilla.png);
+    background-image: url(Images/projects/RazorpayClone.png);
 }
 
 #project4{
